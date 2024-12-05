@@ -16,7 +16,7 @@ const Page = () => {
           
           <div className="relative w-full max-w-5xl mx-auto mb-12 rounded-2xl overflow-hidden shadow-2xl">
             <Image
-              src="/image.png"
+              src="/We are launching soon.png"
               width={1920}
               height={1080}
               className="w-full h-auto object-cover"
